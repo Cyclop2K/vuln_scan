@@ -1,14 +1,7 @@
 #!/bin/bash
 ###############################################################
-#Name: Michael White     lecturer's name: Natalie             #
-#Magen773623:s14:Penetration Testing                           #
-#                                                             #  
-#sites used >                                                 #
-#https://chat.openai.com                                      #     
-#https://ansi.gabebanks.net/                                  #
-#https://gabebanks.net/                                       #
-#https://ipapi.co/                                            #
-#https://www.baeldung.com/linux/run-shell-script-remote-ssh   #
+#Name: Michael White                                          #                           
+#                                                             #
 ###############################################################
 # Reset-color
 Color_Off='\033[0m'       # Text Reset
