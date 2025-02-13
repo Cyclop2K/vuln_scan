@@ -1,4 +1,4 @@
-PT – Project
+PT
 
 Prerequisites
 1. Ensure that all required tools are installed. These tools include:
